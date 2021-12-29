@@ -1,0 +1,7 @@
+Start instruction:
+PyCharm(or any IDE) - <file to run> - RUN
+
+Dependencies:
+task1: openpyxl(external), json
+task2: requests
+task3: sqlite3
